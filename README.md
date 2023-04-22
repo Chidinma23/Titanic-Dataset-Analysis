@@ -27,7 +27,6 @@ The following insights were drawn from the data:
 8. Number of Passengers by Age Group and Passenger Class
 9. Key Influencers to Survival
 
-Interact with my dashboard and report here https://drive.google.com/file/d/1AaKWF1afH88HAoSCm4WIkzoV1uKYXGnV/view?usp=share_link
 
 # Conclusions
 891 Passengers were recorded in this data set and males were more than females with 577 (64.76%) and 314 (35.24%) respectively. Titanic Survival rate is 38.38% with females having survived more than men - 74.2% and 18.89% respectively. For the passenger class, first class passengers had more survival rate than second and third with count of survival being 136.
